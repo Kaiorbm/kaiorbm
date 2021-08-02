@@ -1,7 +1,7 @@
 Oi, eu sou o Kaio Rodrigues!
 
 
-- 🌱Estudando Javascript
+- 🌱Estudando Javascript e React
 
 
 <div>
