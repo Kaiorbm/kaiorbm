@@ -1,7 +1,7 @@
 Oi, eu sou o Kaio Rodrigues!
 
 
-- Atualmente, me interesso por desenvolvimento Front-end.
+
 
 
 <div>
